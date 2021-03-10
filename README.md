@@ -1,6 +1,6 @@
 # project-idea-generator
 
-Exercise made by [Auth0 - Vue Composition Api Tutorial](https://auth0.com/blog/vue-composition-api-tutorial/)
+Inspired by [Auth0 - Vue Composition Api Tutorial](https://auth0.com/blog/vue-composition-api-tutorial/)
 
 ## Project setup
 
